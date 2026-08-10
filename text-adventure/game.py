@@ -47,25 +47,34 @@ class Enemy:
        
         
 
-player =Player(forest)
-print(player.current_room.description)
-player.move("north")
-print(player.current_room.description)
-
-player.move("north")
-
-player.pick_up("rusty key")
-print(player.inventory)
-print(cave.items)
-
-player.pick_up("sword")
-
-goblin = Enemy(30, 5)
-player.attack(goblin)
-print(goblin.health)
-
-goblin.attack(player)
-print(player.health)
-
-player.attack(goblin)
-player.attack(goblin)
+player = Player(forest)
+goblin = Enemy(30,5)
+while True:
+    command = input("> ").split()
+    
+    if command[0] == "quit":
+        print("Thanks for playing!")
+        break
+    elif command[0] == 'go':
+        if len(command) > 1:
+            player.move(command[1])
+            print(player.current_room.description)
+            if player.current_room.items:
+                print("Items here",player.current_room.items)
+        else:
+            print("Go where?")
+    elif command[0] =='look':
+        print(player.current_room.description)
+        if player.current_room.items:
+            print("Items Here",player.current_room.items)
+    elif command[0] == 'take':
+        if len(command) > 1:
+            item_name =' '.join(command[1:])
+            
+            player.pick_up(item_name)
+        else:
+            print("Take what?")
+    elif command[0] == "attack":
+        player.attack(goblin)
+    else:
+        print("Give a Valid Command")
