@@ -7,6 +7,7 @@ add_parser.add_argument('--amount',type=float,required=True)
 add_parser.add_argument('--category',type=str,required=True)
 add_parser.add_argument('--date',type=str,required=True)
 list_parser = subparsers.add_parser('list')
+list_parser.add_argument('--category',type=str,required=False)
 args = parser.parse_args()
 if args.command =='add':
     new_expense = {'amount':args.amount,'category':args.category,'date':args.date}
@@ -27,5 +28,6 @@ elif args.command=='list':
     except FileNotFoundError:
         expenses = []
     for expense in expenses:
-        print(f"${expense['amount']:.2f} - {expense['category']} - {expense['date']}")
+        if args.category is None or expense['category']==args.category:
+            print(f"${expense['amount']:.2f} - {expense['category']} - {expense['date']}")
         
