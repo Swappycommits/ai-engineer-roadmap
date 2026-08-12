@@ -1,0 +1,293 @@
+order_id,restaurant,category,city,order_date,amount,delivery_time_min,customer_rating
+1225,Noodle Nook,Italian,Toledo ,06/08/2026,26.88,20,3
+1147,Pasta Palace,FAST FOOD,Akron ,05/16/2026,51.83,39,4
+1113,Taco Town,Asain,Cincinnati,"July 05, 2026",17.5,54,3
+1007,Pizza Place,asian,Akron ,"March 08, 2026",,42,4
+1279,Pasta Palace,mexican, Cincinnati,02/11/2026,60.93,34,5
+1106,Pasta Palace,ITALIAN,Cincinnati,2026-03-04,21.59,,4
+1118,Pasta Palace,italian,Columbus ,2026-06-07,28.57,20,
+1215,Noodle Nook,Fast Food,Cleveland ,"March 23, 2026",54.13,44,
+1151,Pizza Place,ITALIAN,cincinnati,28-06-2026,21.5,32,
+1181,Taco Town,Itallian, Cincinnati,02-03-2026,46.23,40,3
+1013,Pasta Palace,Asian,Cleveland ,06/12/2026,23.87,51,4
+1091,Taco Town,indian,columbus,27-07-2026,13.02,40,3
+1257,Burger Barn,INDIAN,Cleveland ,2026-07-09,24.11,48,3
+1029,Pizza Place,FAST FOOD, Cincinnati,10-06-2026,46.01,39,2
+1186,Taco Town,Asian,Toledo,05/24/2026,64.42,17,3
+1205,Curry Corner,Fast Food,toledo,02/04/2026,10.62,17,4
+1030,Burger Barn,FAST FOOD,Toledo,04/15/2026,32.5,28,2
+1209,Noodle Nook,fast food,Cincinnati ,06/16/2026,31.93,17,5
+1074,Sushi Spot,Itallian,Toledo ,28-05-2026,46.22,24,1
+1003,Pizza Place,indian,Cincinnati ,06/28/2026,,20,1
+1241,Sushi Spot,Mexican,Cleveland ,05/04/2026,23.62,16,4
+1230,Sushi Spot,Fastfood,Cleveland,"June 27, 2026",16.75,53,1
+1175,Pizza Place,INDIAN,akron,"July 28, 2026",38.99,55,1
+1035,Curry Corner,ITALIAN,Cincinnati ,27-04-2026,58.9,28,
+1066,Pizza Place,Itallian, Columbus,14-07-2026,34.2,49,4
+1183,Burger Barn,Itallian,toledo,05/20/2026,35.74,25,2
+1264,Curry Corner,INDIAN,Cincinnati,2026-07-27,32.67,24,5
+1193,Sushi Spot,FAST FOOD,Cincinnati,2026-04-06,29.2,29,1
+1277,Burger Barn,Asian,akron,04-02-2026,19.58,55,3
+1152,Curry Corner,indian,Akron ,13-02-2026,61.67,24,2
+1041,Pizza Place,fast food,toledo,2026-04-21,40.99,27,
+1172,Taco Town,Indian,akron,18-04-2026,42.38,35,4
+1130,Pizza Place,indian,Toledo ,25-06-2026,,41,1
+1155,Burger Barn,ASIAN,Columbus ,02/04/2026,$61.42,30,2
+1126,Pasta Palace,Mexcian,Cleveland,04/03/2026,,45,1
+1099,Pizza Place,asian,akron,2026-07-22,44.82,28,4
+1217,Curry Corner,Mexcian,Cincinnati,"June 21, 2026",$11.48,48,5
+1226,Pasta Palace,italian,cincinnati,2026-07-28,27.98,,4
+1011,Curry Corner,Fast-Food, Akron,03/05/2026,45.61,28,2
+1120,Noodle Nook,Mexican, Columbus,03/04/2026,25.34,48,1
+1265,Pasta Palace,indian,Columbus ,06/07/2026,12.27,29,4
+1141,Pasta Palace,fast food,Akron,"March 08, 2026",26.45,36,5
+1104,Noodle Nook,Asian,akron,2026-05-18,30.6,35,3
+1131,Taco Town,Indian,Toledo,"February 14, 2026",17.72,30,
+1163,Pasta Palace,Mexcian,Akron,"June 22, 2026",,42,3
+1159,Sushi Spot,mexican,Toledo,2026-06-19,$37.86,15,2
+1187,Burger Barn,italian, Cleveland,01-07-2026,57.08,28,5
+1084,Pizza Place,Asian,cincinnati,06/28/2026,16.82,22,5
+1065,Taco Town,Asain,Cincinnati ,03/10/2026,38.28,39,2
+1133,Pizza Place,Mexcian,cincinnati,04/22/2026,34.2,31,2
+1010,Pizza Place,Mexican,Cincinnati,01-03-2026,58.09,,1
+1077,Noodle Nook,Italian,toledo,06/22/2026,41.42,53,
+1229,Curry Corner,mexican, Cleveland,"July 06, 2026",16.95,49,3
+1197,Taco Town,asian,akron,05-04-2026,44.74,16,3
+1114,Pasta Palace,asian,Akron,02/08/2026,56.37,38,5
+1214,Pasta Palace,fast food, Akron,2026-03-04,11.52,55,1
+1089,Sushi Spot,italian, Cincinnati,07-04-2026,,39,2
+1194,Pasta Palace,Mexican,Columbus,03/06/2026,$37.61,42,4
+1053,Burger Barn,Indian,Cleveland,07/16/2026,$59.78,51,4
+1094,Noodle Nook,Itallian,Cincinnati ,"February 18, 2026",33.21,,3
+1023,Curry Corner,Itallian,cincinnati,"June 22, 2026",39.97,17,5
+1144,Curry Corner,Fast-Food, Toledo,26-05-2026,$12.45,51,2
+1259,Noodle Nook,mexican,Toledo,2026-02-24,49.24,33,1
+1278,Noodle Nook,Asain, Columbus,2026-03-18,18.66,50,2
+1188,Pizza Place,INDIAN,Cincinnati,16-03-2026,63.8,21,4
+1235,Curry Corner,italian,Akron ,03-07-2026,26.23,50,3
+1247,Taco Town,INDIAN,columbus,02-06-2026,36.92,21,3
+1160,Curry Corner,fast food,Columbus ,"June 10, 2026",29.27,46,
+1054,Burger Barn,MEXICAN,Cincinnati,"June 09, 2026",32.95,16,
+1004,Taco Town,asian,akron,06-05-2026,19.94,25,2
+1219,Pizza Place,Indian, Cincinnati,2026-03-13,22.13,29,4
+1103,Pasta Palace,Asian,akron,2026-06-13,24.25,42,
+1192,Curry Corner,Fast Food, Cleveland,"July 11, 2026",8.93,42,2
+1140,Taco Town,MEXICAN, Columbus,2026-03-20,49.99,55,4
+1199,Pizza Place,ASIAN,Cleveland,"March 06, 2026",57.07,19,
+1224,Sushi Spot,Itallian, Toledo,20-04-2026,15.26,51,
+1024,Burger Barn,FAST FOOD,columbus,2026-05-05,59.24,41,2
+1272,Pizza Place,mexican, Akron,"April 12, 2026",62.92,47,5
+1127,Burger Barn,ASIAN, Columbus,15-05-2026,10.58,39,5
+1020,Burger Barn,Indian,toledo,02/19/2026,36.84,,3
+1028,Pizza Place,Fastfood, Toledo,06/28/2026,$22.52,27,1
+1112,Sushi Spot,MEXICAN,Akron,13-06-2026,$53.67,49,1
+1153,Sushi Spot,asian,Columbus ,2026-05-30,40.06,28,1
+1071,Curry Corner,Fastfood,Cincinnati,02/20/2026,50.99,50,4
+1271,Pasta Palace,Fast-Food, Toledo,"May 22, 2026",60.69,23,
+1098,Pasta Palace,MEXICAN, Toledo,04/06/2026,$27.0,40,1
+1064,Sushi Spot,Italian,Cincinnati,2026-05-23,$51.34,16,
+1014,Sushi Spot,Fastfood,Cleveland,"May 02, 2026",$31.43,18,3
+1267,Pasta Palace,Indian, Toledo,24-02-2026,58.74,18,4
+1018,Pizza Place,Italian,Toledo,2026-06-11,$56.53,51,5
+1085,Noodle Nook,INDIAN, Akron,2026-07-08,42.71,,3
+1249,Pasta Palace,INDIAN,toledo,"February 19, 2026",58.7,18,2
+1212,Burger Barn,indian, Cleveland,"March 26, 2026",$25.57,53,
+1025,Noodle Nook,Itallian,Columbus ,02/07/2026,49.98,30,1
+1128,Noodle Nook,Indian,Toledo,2026-03-05,30.45,27,4
+1191,Noodle Nook,indian, Cleveland,"March 28, 2026",55.02,23,4
+1182,Noodle Nook,Indian,Akron ,23-07-2026,60.36,22,2
+1206,Taco Town,MEXICAN,Columbus,2026-04-11,40.58,,5
+1069,Curry Corner,indian,Columbus,07/24/2026,43.81,52,2
+1161,Pasta Palace,INDIAN,cleveland,12-04-2026,8.98,21,5
+1169,Sushi Spot,Mexcian,Akron,2026-02-27,13.11,15,4
+1044,Taco Town,Itallian, Akron,"June 26, 2026",27.17,31,5
+1006,Sushi Spot,asian,Toledo ,"July 18, 2026",30.55,50,5
+1142,Taco Town,Italian, Cincinnati,2026-07-21,34.53,34,3
+1012,Burger Barn,Mexcian,cincinnati,03/03/2026,20.81,19,1
+1093,Sushi Spot,Indian, Columbus,2026-07-18,18.1,43,5
+1101,Sushi Spot,Indian, Columbus,2026-05-24,31.42,43,2
+1173,Taco Town,Asain,akron,2026-05-05,61.13,16,4
+1109,Sushi Spot,INDIAN,cleveland,04/27/2026,10.53,44,4
+1005,Burger Barn,asian,Akron,26-07-2026,56.04,,3
+1245,Pasta Palace,ASIAN,toledo,2026-04-18,35.46,34,5
+1002,Taco Town,italian,Cincinnati,2026-04-28,13.29,44,4
+1079,Pizza Place,Fastfood,Cleveland,26-05-2026,37.25,48,1
+1067,Pizza Place,MEXICAN,Cincinnati,28-05-2026,19.36,51,3
+1184,Taco Town,Indian,Akron ,2026-05-03,35.62,41,4
+1115,Pizza Place,MEXICAN,columbus,"May 07, 2026",51.5,30,1
+1156,Sushi Spot,ASIAN, Toledo,"May 09, 2026",38.42,21,4
+1171,Taco Town,Itallian,Cincinnati ,07/03/2026,$34.1,39,3
+1243,Noodle Nook,italian,Columbus,"April 10, 2026",37.26,23,5
+1166,Pizza Place,Fast Food, Cincinnati,05/23/2026,55.8,35,
+1154,Noodle Nook,Fast-Food,cincinnati,2026-03-21,23.3,52,5
+1220,Noodle Nook,italian,columbus,02-07-2026,53.95,,5
+1134,Taco Town,asian,Toledo ,18-04-2026,48.18,32,5
+1275,Sushi Spot,fast food,Cleveland,04/10/2026,$64.06,,2
+1170,Curry Corner,italian,Toledo,"July 26, 2026",17.66,32,4
+1231,Sushi Spot,Asian,Columbus ,2026-06-02,25.58,49,3
+1090,Pasta Palace,Fastfood,Akron,"February 05, 2026",60.51,41,4
+1201,Taco Town,Asian,cleveland,06/11/2026,63.54,19,4
+1236,Noodle Nook,INDIAN,Cleveland,"June 14, 2026",14.41,21,5
+1009,Sushi Spot,FAST FOOD,Akron,06/09/2026,36.94,27,2
+1037,Taco Town,mexican,Akron,06/05/2026,23.56,25,2
+1185,Burger Barn,Fast-Food,Columbus,02/08/2026,24.65,46,1
+1045,Pizza Place,Indian,Cleveland,02/22/2026,49.04,46,1
+1164,Pizza Place,italian,Cleveland,"July 28, 2026",23.45,17,3
+1221,Pizza Place,MEXICAN,columbus,"March 17, 2026",10.16,,3
+1011,Curry Corner,Fast-Food, Akron,03/05/2026,45.61,28,2
+1179,Noodle Nook,fast food,Cincinnati ,04/04/2026,39.46,55,4
+1048,Taco Town,asian,Columbus ,2026-04-19,$48.36,,2
+1042,Pasta Palace,Indian,Cincinnati ,2026-06-25,27.79,41,1
+1227,Burger Barn,MEXICAN, Akron,"June 20, 2026",13.78,25,1
+1057,Taco Town,Mexican,cleveland,"July 19, 2026",31.56,18,5
+1122,Noodle Nook,Fast Food, Toledo,2026-02-21,62.07,54,4
+1157,Sushi Spot,Asain, Cincinnati,02/12/2026,,41,2
+1240,Pizza Place,FAST FOOD,Columbus,"June 10, 2026",15.73,,2
+1089,Sushi Spot,italian, Cincinnati,07-04-2026,,39,2
+1254,Noodle Nook,Itallian, Columbus,02/05/2026,20.79,,1
+1252,Curry Corner,FAST FOOD,Cincinnati ,06/16/2026,,37,1
+1276,Taco Town,Fast-Food,Akron ,07/23/2026,50.32,33,1
+1001,Sushi Spot,Indian,Toledo ,06/24/2026,48.81,15,2
+1139,Pasta Palace,INDIAN,Cincinnati,28-02-2026,24.22,47,2
+1111,Taco Town,ITALIAN, Cleveland,2026-05-03,$57.35,43,4
+1268,Pizza Place,indian, Toledo,19-07-2026,48.81,55,3
+1223,Pizza Place,ASIAN, Cleveland,04/24/2026,63.62,35,5
+1107,Curry Corner,Indian,Toledo,09-03-2026,32.47,20,3
+1008,Pizza Place,indian,Akron ,2026-06-22,46.78,36,
+1266,Noodle Nook,Fastfood,Columbus ,"May 25, 2026",13.02,16,
+1273,Curry Corner,italian,Toledo,26-03-2026,$47.14,26,3
+1180,Pasta Palace,Itallian,toledo,"July 02, 2026",30.16,19,5
+1021,Burger Barn,Asian,toledo,21-07-2026,61.11,50,3
+1270,Burger Barn,Asian,Columbus ,2026-05-18,60.82,52,2
+1204,Pizza Place,Asian,cleveland,"June 08, 2026",37.11,21,1
+1203,Burger Barn,INDIAN, Cincinnati,04/08/2026,29.2,16,4
+1119,Curry Corner,indian,akron,2026-05-16,$15.14,23,5
+1248,Curry Corner,fast food,Cincinnati ,05/02/2026,50.42,33,1
+1229,Curry Corner,mexican, Cleveland,"July 06, 2026",16.95,49,3
+1176,Curry Corner,Italian,cincinnati,"June 25, 2026",63.11,29,5
+1078,Sushi Spot,asian,Toledo ,2026-03-01,15.51,200,
+1242,Sushi Spot,INDIAN,akron,01-05-2026,17.32,39,
+1046,Taco Town,mexican,columbus,20-04-2026,34.98,44,3
+1108,Pizza Place,INDIAN, Toledo,2026-06-22,30.26,16,1
+1228,Pasta Palace,Asian,Cincinnati ,19-02-2026,17.7,20,5
+1256,Burger Barn,indian,cleveland,06/02/2026,$19.71,48,5
+1261,Taco Town,indian,Akron ,24-02-2026,54.45,39,4
+1082,Taco Town,Mexcian,Akron,25-02-2026,32.33,19,
+1135,Burger Barn,ITALIAN, Cincinnati,11-02-2026,62.45,28,5
+1274,Noodle Nook,indian,Cincinnati ,"June 30, 2026",46.43,15,1
+1239,Sushi Spot,MEXICAN,Cincinnati,"April 10, 2026",42.48,46,3
+1102,Noodle Nook,ITALIAN, Akron,"July 24, 2026",34.32,27,2
+1189,Taco Town,italian,Columbus ,10-03-2026,55.22,32,4
+1036,Taco Town,Mexcian, Toledo,02/16/2026,55.47,-5,1
+1092,Taco Town,Fast-Food, Columbus,2026-07-13,38.24,24,2
+1062,Curry Corner,Mexican,Columbus,05-03-2026,57.57,24,2
+1062,Curry Corner,Mexican,Columbus,05-03-2026,57.57,24,2
+1000,Curry Corner,FAST FOOD,cleveland,04/04/2026,15.95,17,
+1027,Taco Town,MEXICAN,Toledo ,2026-02-08,57.99,53,3
+1100,Sushi Spot,Italian,columbus,2026-04-17,36.94,54,4
+1177,Burger Barn,Mexcian,cincinnati,07/24/2026,,20,
+1208,Noodle Nook,Indian,Columbus ,2026-03-11,,15,1
+1148,Pasta Palace,ITALIAN,Toledo ,03/03/2026,$64.59,16,4
+1063,Burger Barn,Asain,Cincinnati,2026-07-17,56.55,46,1
+1269,Curry Corner,fast food,cleveland,06/07/2026,54.84,22,4
+1232,Taco Town,Mexican,Columbus,"April 09, 2026",34.51,,1
+1158,Sushi Spot,Indian,akron,08-06-2026,22.67,25,3
+1143,Pizza Place,italian,columbus,06/03/2026,33.93,49,2
+1017,Taco Town,INDIAN,Akron ,06/05/2026,$18.82,35,
+1059,Burger Barn,INDIAN,Cincinnati,"April 11, 2026",55.58,53,2
+1165,Sushi Spot,Itallian,Toledo,20-02-2026,17.26,36,2
+1224,Sushi Spot,Itallian, Toledo,20-04-2026,15.26,51,
+1216,Noodle Nook,Mexican,akron,"May 09, 2026",17.85,17,5
+1257,Burger Barn,INDIAN,Cleveland ,2026-07-09,24.11,48,3
+1149,Pizza Place,italian,akron,29-05-2026,16.84,41,1
+1123,Curry Corner,mexican, Cincinnati,"July 26, 2026",$24.95,28,2
+1055,Noodle Nook,Indian, Cincinnati,"March 17, 2026",37.58,46,4
+1016,Pasta Palace,Fast Food,Toledo ,04/02/2026,31.17,15,3
+1200,Pasta Palace,Italian,cincinnati,"February 16, 2026",36.88,20,5
+1202,Pasta Palace,Fastfood,columbus,"March 02, 2026",42.9,15,1
+1262,Curry Corner,fast food,Columbus ,2026-07-29,$63.95,51,2
+1234,Taco Town,Mexican,Cleveland,06/09/2026,14.86,27,4
+1244,Sushi Spot,indian,Cincinnati,15-07-2026,32.16,48,4
+1087,Taco Town,Asian, Cincinnati,02/14/2026,16.97,46,4
+1146,Pizza Place,Asian,Akron,13-05-2026,54.54,,1
+1097,Sushi Spot,mexican, Akron,05-05-2026,60.32,55,1
+1125,Burger Barn,mexican,Toledo ,13-03-2026,61.22,44,3
+1222,Noodle Nook,asian,Columbus ,2026-04-24,9.25,38,3
+1061,Pizza Place,Mexcian,Toledo ,04/24/2026,63.9,35,4
+1081,Burger Barn,indian,Toledo ,"May 28, 2026",13.65,28,2
+1158,Sushi Spot,Indian,akron,08-06-2026,22.67,25,3
+1068,Noodle Nook,Asian,akron,2026-06-25,59.91,29,3
+1129,Pasta Palace,ITALIAN, Cleveland,"June 02, 2026",$16.49,40,3
+1210,Curry Corner,Mexican, Cincinnati,2026-06-29,36.81,23,3
+1056,Burger Barn,Asian, Cincinnati,14-03-2026,31.46,17,3
+1019,Pizza Place,MEXICAN,Cleveland,04/08/2026,46.17,44,1
+1198,Pizza Place,Indian,Toledo,12-05-2026,44.83,30,5
+1086,Taco Town,italian,cleveland,"June 25, 2026",11.97,39,3
+1070,Taco Town,mexican, Cincinnati,03/24/2026,52.83,25,4
+1137,Curry Corner,Fast-Food,Columbus,"March 13, 2026",45.21,33,1
+1060,Taco Town,ASIAN, Akron,01-02-2026,49.38,43,3
+1034,Noodle Nook,mexican,Toledo,"June 02, 2026",22.77,55,4
+1040,Noodle Nook,fast food,cleveland,2026-03-24,43.42,44,3
+1138,Curry Corner,Italian,Toledo,"March 17, 2026",58.29,46,3
+1076,Burger Barn,Italian,cincinnati,2026-05-28,45.78,,2
+1246,Pasta Palace,MEXICAN,toledo,07/25/2026,49.11,39,5
+1026,Noodle Nook,mexican, Cleveland,"March 24, 2026",27.93,40,1
+1032,Burger Barn,Indian,Akron ,"July 29, 2026",36.18,,1
+1043,Taco Town,Itallian,Akron,18-03-2026,43.11,52,2
+1096,Noodle Nook,ITALIAN,Toledo,"July 05, 2026",36.58,20,2
+1083,Pasta Palace,FAST FOOD, Akron,2026-03-06,41.43,42,1
+1190,Pasta Palace,MEXICAN, Cleveland,28-07-2026,33.92,20,4
+1258,Taco Town,Fast-Food,Columbus,06/08/2026,47.23,,
+1110,Noodle Nook,Fastfood,Columbus ,10-02-2026,19.49,40,5
+1105,Sushi Spot,Asain,Cleveland ,07/29/2026,51.25,150,5
+1185,Burger Barn,Fast-Food,Columbus,02/08/2026,24.65,46,1
+1073,Pizza Place,Fastfood,Columbus,30-07-2026,$45.01,,1
+1117,Sushi Spot,FAST FOOD,akron,21-07-2026,48.44,55,3
+1150,Sushi Spot,Fast-Food,cleveland,"February 09, 2026",$42.07,29,1
+1145,Noodle Nook,Mexican,Toledo,07/25/2026,48.86,23,4
+1253,Pizza Place,asian, Toledo,2026-02-17,25.0,23,4
+1251,Taco Town,italian,columbus,2026-06-06,15.38,15,
+1233,Curry Corner,indian,Cincinnati ,07/01/2026,39.56,45,2
+1134,Taco Town,asian,Toledo ,18-04-2026,48.18,32,5
+1250,Sushi Spot,Mexcian,Cincinnati ,09-03-2026,$57.16,35,1
+1237,Noodle Nook,indian,Cincinnati ,17-05-2026,29.83,,2
+1178,Taco Town,Asain,Cincinnati,"March 25, 2026",27.85,17,1
+1136,Pizza Place,Italian,Cincinnati,07/08/2026,21.82,41,4
+1174,Burger Barn,Fastfood,Cincinnati ,"July 23, 2026",15.93,39,
+1039,Taco Town,MEXICAN,Cincinnati,19-05-2026,55.59,,2
+1049,Pasta Palace,indian,Cleveland,"June 01, 2026",$33.11,19,1
+1207,Burger Barn,MEXICAN,Cleveland ,21-04-2026,12.92,54,3
+1099,Pizza Place,asian,akron,2026-07-22,44.82,28,4
+1132,Sushi Spot,MEXICAN,cleveland,05/19/2026,31.54,18,5
+1050,Sushi Spot,indian, Columbus,02/22/2026,14.75,48,4
+1238,Pasta Palace,asian,akron,"February 13, 2026",$60.49,32,1
+1052,Sushi Spot,Mexcian,cleveland,"July 27, 2026",24.6,29,5
+1080,Burger Barn,Mexican, Akron,"June 06, 2026",12.19,,5
+1031,Taco Town,indian,Toledo,02/24/2026,46.35,,4
+1121,Sushi Spot,asian, Toledo,11-07-2026,43.02,25,5
+1211,Noodle Nook,ASIAN, Akron,27-05-2026,$21.32,21,4
+1196,Pizza Place,MEXICAN,Columbus ,03/27/2026,60.43,23,5
+1088,Sushi Spot,FAST FOOD,Toledo,2026-05-22,24.15,40,1
+1255,Curry Corner,MEXICAN,Cleveland ,2026-06-17,,18,4
+1058,Taco Town,Mexican,akron,02/08/2026,$48.46,22,1
+1033,Sushi Spot,indian,Columbus ,02/13/2026,$60.3,50,4
+1038,Burger Barn,INDIAN,Toledo ,2026-02-07,44.64,,2
+1051,Noodle Nook,MEXICAN,Toledo,2026-06-26,42.75,20,2
+1260,Noodle Nook,FAST FOOD, Columbus,04-05-2026,32.28,150,2
+1102,Noodle Nook,ITALIAN, Akron,"July 24, 2026",34.32,27,2
+1195,Sushi Spot,Fast Food,Akron,27-02-2026,28.95,24,
+1167,Noodle Nook,mexican, Akron,"May 03, 2026",32.62,30,1
+1116,Burger Barn,Mexican,Toledo ,09-04-2026,48.13,27,1
+1124,Noodle Nook,Asain, Cincinnati,06-03-2026,37.35,24,
+1218,Burger Barn,Mexcian,Cincinnati ,30-04-2026,30.14,32,
+1047,Pasta Palace,Asian,columbus,06/18/2026,18.92,53,1
+1213,Sushi Spot,ITALIAN,cleveland,2026-05-13,46.6,,4
+1132,Sushi Spot,MEXICAN,cleveland,05/19/2026,31.54,18,5
+1095,Burger Barn,FAST FOOD,Cleveland ,2026-04-15,$44.75,52,1
+1162,Sushi Spot,INDIAN,Columbus,06-04-2026,23.24,29,1
+1263,Noodle Nook,Indian,cincinnati,07/26/2026,35.54,35,
+1075,Pizza Place,Asian,Akron,27-07-2026,20.38,38,3
+1022,Curry Corner,ITALIAN,cincinnati,"June 10, 2026",$22.31,17,
+1072,Taco Town,Fastfood, Toledo,06-05-2026,41.32,16,5
+1015,Sushi Spot,Itallian,Columbus,"March 08, 2026",18.46,,5
+1168,Sushi Spot,Itallian,Akron,23-04-2026,,32,
