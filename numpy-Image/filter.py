@@ -22,3 +22,13 @@ print(gray[0][0])
 
 gray_img = Image.fromarray(gray.astype(np.uint8))
 gray_img.save('grayscale_output.jpg')
+
+shifted_right = np.roll(gray,1,axis = 1)
+shifted_left = np.roll(gray,-1,axis= 1)
+shifted_up = np.roll(gray,-1,axis =0)
+shifted_down = np.roll(gray,1,axis=0)
+
+blurred = (gray + shifted_right + shifted_left + shifted_up + shifted_down)/5
+
+blurred_img = Image.fromarray(blurred.astype(np.uint8))
+blurred_img.save('blurred_output.jpg')
