@@ -32,3 +32,11 @@ blurred = (gray + shifted_right + shifted_left + shifted_up + shifted_down)/5
 
 blurred_img = Image.fromarray(blurred.astype(np.uint8))
 blurred_img.save('blurred_output.jpg')
+
+horizontal_edges = gray - shifted_right
+vertical_edges = gray - shifted_down
+
+edges = np.abs(horizontal_edges) + np.abs(vertical_edges)
+
+edges_img = Image.fromarray(edges.astype(np.uint8))
+edges_img.save('edges_output.jpg')
